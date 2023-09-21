@@ -1,4 +1,4 @@
-# Complete Bipartite Subgraphs of the Partition Graph $\mathcal{P}(3^3)$
+# Complete Bipartite Subgraphs of the Partition Graph P(3^3).
 
 - Utilized mathematical proofs to construct the $\mathcal{P}(3^3)$ partition graph.
 - Categorized vertex pairs into 5 equivalent clusters.
